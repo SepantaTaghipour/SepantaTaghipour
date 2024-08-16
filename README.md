@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SepantaTaghipour
 - 👀 I’m interested in making websites 
 - 🌱 I’m currently learning html & css
-- 📫 How to reach me: telegram and discord
+- 📫 How to reach me: discord
 - 😄 Pronouns: He/him
 
 <!---
